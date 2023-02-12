@@ -1,7 +1,7 @@
 # Hi there 👋,
 ## I'm Faiz Arif U P.
-### MCA First Year Student.
-TKM College of Engineering, Kerala, India.
+MCA First Year Student.
+TKM College of Engineering, Kollam, Kerala.
 
 ---
 
