@@ -1,7 +1,15 @@
-# Hi there 👋,
-## I'm Faiz Arif U P.
-MCA First Year Student.
+# Hi there 👋, I'm Faiz Arif U P.
+Kozhikode, Kerala.
+### MCA First Year Student.
 TKM College of Engineering, Kollam, Kerala.
+
+---
+
+### Educational Qualification:
+- Post Graduation
+MCA (2022-24), TKM College of Engineering.
+- Under Graduation
+BSc Computer Scinece (2019-22), Farook College.
 
 ---
 
