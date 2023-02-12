@@ -9,7 +9,7 @@ I'm Currently pursuing my post graduation in Masters in Computer Application fro
 ### -  Post Graduation
 MCA (2022-24), TKM College of Engineering.
 ### - Under Graduation
-BSc Computer Scinece (2019-22), Farook College.
+BSc Computer Science (2019-22), Farook College.
 
 ---
 
